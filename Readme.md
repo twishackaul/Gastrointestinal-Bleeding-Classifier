@@ -21,7 +21,8 @@
 ![A0509](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/bd473890-8f6f-4d3c-9bf9-c5651dbdcda1)
 
 * **NON-BLEEDING FRAME**
-![A0543](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/f61ea97c-00db-45e5-aa66-469966d0cb57)
+![A0511](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/65ec2d07-d9c6-4043-ba4f-fd4bf3e53a52)
+
 
 
 
