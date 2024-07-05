@@ -23,18 +23,11 @@
 * **NON-BLEEDING FRAME**
 ![A0511](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/65ec2d07-d9c6-4043-ba4f-fd4bf3e53a52)
 
-## Python code illustrating usage:
+### The dataset for the above model can be found at:
 
-- Importing Libraries:
+* Training Dataset:- ***https://zenodo.org/records/10156571***
+* Testing Dataset:- ***https://zenodo.org/records/10124589***
 
-![Screenshot 2024-07-05 221310](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/03860326-a572-4a17-924b-349689190573)
-![Screenshot 2024-07-05 221325](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/04e89292-7244-48b6-b940-29439b5b3a3a)
-
-- Mounting drive and unzipping file:
-  
-![Screenshot 2024-07-05 221445](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/a3168beb-f1ee-4068-a258-1c2ca33042f2)
-![Screenshot 2024-07-05 221457](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/8b633efc-0f05-40fa-a5a6-ef7fdef61f79)
-![Screenshot 2024-07-05 221513](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/be2ce4cc-3ca5-41ad-9ec2-2a7e646fd0ec)
 
 
   
