@@ -26,8 +26,8 @@
 ## Python code illustrating usage:
 
 - Importing Libraries:
-![Screenshot 2024-07-05 221310](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/03860326-a572-4a17-924b-349689190573)
 
+![Screenshot 2024-07-05 221310](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/03860326-a572-4a17-924b-349689190573)
 ![Screenshot 2024-07-05 221325](https://github.com/twishackaul/Gastrointestinal-Bleeding-Classifier/assets/107127632/04e89292-7244-48b6-b940-29439b5b3a3a)
 
 - Mounting drive and unzipping file:
